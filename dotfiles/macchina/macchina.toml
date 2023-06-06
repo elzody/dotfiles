@@ -1,0 +1,10 @@
+show = [
+    "Kernel",
+    "Distribution",
+    "Terminal",
+    "Shell",
+    "Processor",
+    "Memory"
+]
+
+theme = "lizzy"

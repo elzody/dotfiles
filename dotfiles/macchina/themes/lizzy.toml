@@ -1,0 +1,25 @@
+spacing   = 1
+padding   = 2
+separator = "=>"
+separator_color = "#A6926D"
+key_color = "#A6926D"
+
+[palette]
+type = "Dark"
+glyph = "● "
+visible = true
+
+[box]
+title = " elzody "
+border = "thick"
+visible = true
+
+[box.inner_margin]
+x = 2
+y = 1
+
+[custom_ascii]
+path = "~/.config/macchina/themes/ascii.txt"
+
+[keys]
+wm = "WM"
